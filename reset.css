@@ -1,0 +1,9 @@
+/* https://twitter.com/nathansmith/status/1242606456677040128 */
+@​media (prefers-reduced-motion: reduce) {
+  *,
+  *:after,
+  *:before {
+    animation: none !important;
+    transition: none !important;
+  }
+}
